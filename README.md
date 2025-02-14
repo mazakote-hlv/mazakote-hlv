@@ -1,4 +1,4 @@
-https://img.shields.io/badge/SUR Race-Winners-blue
+https://img.shields.io/badge/SUR_Race-Winners-blue
 
 # Mazakote Project
 
