@@ -1,3 +1,9 @@
 # Mazakote Project
 
-- **Welcome to our project! We are passionate about mechanics and electronics, and we participate with our solar vehicle in the Sustainable Urban Race (SUR), in Huelva, Andalucía, Spain. We participate in the race for the second time this year, ans is hard for the team finding financial help for our project and places to work on it, because we are a small team that won the last edition of the race and we want to return and win the race again! You can visit the SUR [Official Webpage](https://www.uhu.es/surbanrace/)**
+
+
+We are a passionate team focused on mechanics and electronics, and we are thrilled to participate in the **Sustainable Urban Race (SUR)** held in **Huelva, Andalucía, Spain**. This year marks our second time competing, and while we are excited, we face challenges in securing financial support and finding adequate spaces to work on our project. 
+
+As a small team that won the previous edition of the race, our goal is to return and claim victory once again!
+
+You can learn more about the event by visiting the [Official SUR Website](https://www.uhu.es/surbanrace/).
